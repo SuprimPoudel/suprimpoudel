@@ -2,10 +2,10 @@ Howdy👋👋👋 I'am Suprim Poudel
 
 ## I'm a Student, Programmer, Developer and your Friend too 😉🤞
 
-- 🔭 I just started as a intern at Ekbana Solutions Pvt. Ltd. 😎
-- 🌱 I’m currently learning in depth about Android 📚
-- 👯 Recently I opened a Youtube channel where I will be posting various tutorials related to Flutter and Android
-- 🥅 2022 Goals: Land a great job in Android/ Flutter Development
+- 🔭 I just started working as a Jr. Android Developer at Ekbana Solutions Pvt. Ltd. 😎
+- 🌱 I’m currently learning iOS development too 📚
+- 👯 I also have a Youtube channel where I upload videos relating to Flutter and Androids
+- 🥅 2022 Goals: Become a fullstack developer for mobile platforms 🤞 (Flutter, Android, and iOS)
 - ⚡ Fun fact: I consider myself lazy 😜 So I always try and find simple solutions to everything
 
 ### Connect with me:
