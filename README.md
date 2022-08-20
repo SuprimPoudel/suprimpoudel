@@ -3,9 +3,8 @@ Howdy👋👋👋 I'am Suprim Poudel
 ## I'm a Student, Programmer, Developer and your Friend too 😉🤞
 
 - 🔭 I just started working as a Jr. Android Developer at Ekbana Solutions Pvt. Ltd. 😎
-- 🌱 I’m currently learning iOS development too 📚
 - 👯 I also have a Youtube channel where I upload videos relating to Flutter and Androids
-- 🥅 2022 Goals: Become a fullstack developer for mobile platforms 🤞 (Flutter, Android, and iOS)
+- 🥅 2022 Goals: Learn Spring and Spring Boot
 - ⚡ Fun fact: I consider myself lazy 😜 So I always try and find simple solutions to everything
 
 ### Connect with me:
@@ -24,7 +23,6 @@ Howdy👋👋👋 I'am Suprim Poudel
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
