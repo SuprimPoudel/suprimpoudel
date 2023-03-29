@@ -2,7 +2,7 @@ Howdy👋👋👋 I'am Suprim Poudel
 
 ## I'm a Student, Programmer, Developer and your Friend too 😉🤞
 
-- 🔭 I am working as an Android Developer at Synergy Tech Software 😎
+- 🔭 I am working as an Android Developer and Flutter Developer at Synergy Tech Software 😎
 - 👯 I also have a Youtube channel where I upload videos relating to Flutter and Androids
 - 🥅 2022 Goals: Learn Spring and Spring Boot
 - ⚡ Fun fact: I consider myself lazy 😜 So I always try and find simple solutions to everything
