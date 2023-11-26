@@ -1,31 +1,27 @@
-Howdy👋👋👋 I'am Suprim Poudel
+# Suprim Poudel - Developer Extraordinaire 👨‍💻
 
-## I'm a Student, Programmer, Developer and your Friend too 😉🤞
+Hey there! I'm Suprim Poudel, a passionate student, programmer, and developer, and I'm thrilled to welcome you to my coding universe. 🚀
 
-- 🔭 I am working as an Android Developer and Flutter Developer at Synergy Tech Software 😎
-- 👯 I also have a Youtube channel where I upload videos ralated to Flutter and Androids
-- ⚡ Fun fact: I consider myself lazy 😜 So I always try and find simple solutions to everything
+## 🌟 About Me
 
-### Connect with me:
+- **Profession:** Mobile Application Developer (Native Android and Flutter)
+- **Skills:** 
+  - ![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
+  - ![Java](https://img.shields.io/badge/Java-Expert-blue)
+  - ![MySQL](https://img.shields.io/badge/MySQL-Advanced-yellow)
+  - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-brightgreen)
+  - ![React](https://img.shields.io/badge/React-Intermediate-blueviolet)
+  - ![Flutter](https://img.shields.io/badge/Flutter-Expert-blue)
+  
+## 🚀 Let's Create Awesome Together
 
-[<img align="left" alt="suprimpoudel.com" width="22px" src="[https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg](https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png)" />](https://suprimpoudel.com.np)
-[<img align="left" alt="Youtube | YouTube" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg](https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png)" />](https://www.youtube.com/channel/UCms_TnQcbOGILURxMYxM4vg)
-[<img align="left" alt="Suprim | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png)" />](https://www.linkedin.com/in/suprim-poudel-228b11198/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/suprim.poudel)
+I'm all about crafting innovative and efficient mobile applications. Whether it's the native Android experience or the versatility of Flutter, I'm your go-to guy. Let's turn your ideas into digital reality!
 
-<br />
+## 🌐 Connect With Me
 
-### Languages and Tools:
+- **Website:** [suprimpoudel.com.np](https://suprimpoudel.com.np)
+- **LinkedIn:** [Suprim Poudel](https://www.linkedin.com/in/suprim-poudel-228b11198)
+- **Instagram:** [@suprim.poudel](https://instagram.com/suprim.poudel)
+- **YouTube:** [Suprim's YouTube Channel](https://www.youtube.com/channel/UCms_TnQcbOGILURxMYxM4vg)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+Feel free to reach out, whether it's about coding, collaboration, or just a friendly chat. Let's build something incredible together! 🌈✨
