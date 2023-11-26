@@ -8,9 +8,9 @@ Howdy👋👋👋 I'am Suprim Poudel
 
 ### Connect with me:
 
-[<img align="left" alt="suprimpoudel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://suprimpoudel.com.np)
-[<img align="left" alt="Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCms_TnQcbOGILURxMYxM4vg)
-[<img align="left" alt="Suprim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/suprim-poudel-228b11198/)
+[<img align="left" alt="suprimpoudel.com" width="22px" src="[https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg](https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png)" />](https://suprimpoudel.com.np)
+[<img align="left" alt="Youtube | YouTube" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg](https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png)" />](https://www.youtube.com/channel/UCms_TnQcbOGILURxMYxM4vg)
+[<img align="left" alt="Suprim | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png)" />](https://www.linkedin.com/in/suprim-poudel-228b11198/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/suprim.poudel)
 
 <br />
