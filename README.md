@@ -4,18 +4,18 @@ Hey there! I'm Suprim Poudel, a passionate student, programmer, and developer, a
 
 ## 🌟 About Me
 
-- **Profession:** Mobile Application Developer (Native Android and Flutter)
+- **Profession:** Software Developer - Native Android and Flutter Developer as well as Java Developer
 - **Skills:** 
   - ![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
   - ![Java](https://img.shields.io/badge/Java-Expert-blue)
   - ![MySQL](https://img.shields.io/badge/MySQL-Advanced-yellow)
-  - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-brightgreen)
+  - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Medium-brightgreen)
   - ![React](https://img.shields.io/badge/React-Intermediate-blueviolet)
   - ![Flutter](https://img.shields.io/badge/Flutter-Expert-blue)
   
-## 🚀 Let's Create Awesome Together
+## 🚀 Let's Create Awesomeness Together
 
-I'm all about crafting innovative and efficient mobile applications. Whether it's the native Android experience or the versatility of Flutter, I'm your go-to guy. Let's turn your ideas into digital reality!
+I'm all about crafting innovative and efficient mobile applications. Whether it's the seamless native Android experience or the dynamic versatility of Flutter, I'm your go-to developer. Let's transform your ideas into digital masterpieces!
 
 ## 🌐 Connect With Me
 
